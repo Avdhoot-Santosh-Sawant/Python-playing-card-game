@@ -5,3 +5,4 @@
 command :- pip install pygame
        
 ### softwere required :- code editor, extension that make python development easy 
+*use relative path to images*
